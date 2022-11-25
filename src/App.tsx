@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="card-product">
-      <img className='card-image' />
+      <img className='card-image' alt='preview product'/>
       <div className="product-details">
         <small className="product-type">PERFUME</small>
         <div className="product-title">Gabrielle Essence Eau De Parfum</div>
